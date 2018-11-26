@@ -1,0 +1,2 @@
+# AR_SolarSystem
+processingで太陽系を作成しました．コードもそのうちあげます
